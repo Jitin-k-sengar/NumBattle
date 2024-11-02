@@ -1,4 +1,5 @@
 # Number Guessing Game
+![image](https://github.com/user-attachments/assets/c6fc8cc8-b439-4ec5-96e7-dcc12476b426)
 
 Welcome to the Number Guessing Game! This is a fun and interactive game where players try to guess a randomly generated number between 1 and 100. The game can be played in two modes: Single Player or Multiplayer.
 
