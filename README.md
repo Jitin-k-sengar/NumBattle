@@ -21,6 +21,22 @@ Welcome to the Number Guessing Game! This is a fun and interactive game where pl
 - Python 3.x
 - `colorama` library for colored output
 
+## ScreenShots
+![image](https://github.com/user-attachments/assets/5e16b3c9-303d-44b0-bff7-d41bf810d9ef)
+![image](https://github.com/user-attachments/assets/ea4b5543-eadd-448b-a3cb-6e5c92998899)
+![image](https://github.com/user-attachments/assets/44c81204-5ebd-4346-959b-717693903371)
+![image](https://github.com/user-attachments/assets/a716aeda-4e7b-4ac9-9df5-f4f520812038)
+![image](https://github.com/user-attachments/assets/769898c7-2a2e-4d6d-9c6d-805d7d3ba7a4)
+![image](https://github.com/user-attachments/assets/1af6e0da-c86b-4b7a-b8c3-94fe91da8747)
+![image](https://github.com/user-attachments/assets/3c11a1a3-00d5-439d-9f1c-aade0c8b0605)
+
+
+
+
+
+
+
+
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
 
