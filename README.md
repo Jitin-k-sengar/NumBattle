@@ -20,8 +20,14 @@ Welcome to the Number Guessing Game! This is a fun and interactive game where pl
 - Python 3.x
 - `colorama` library for colored output
 
-## Installation
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
+
+## Acknowledgements
+Inspired by classic number guessing games.
+Thanks to the contributors and the open-source community.
+
+## Contact
+For any inquiries, please contact jitin.k.sengar@gmail.com.
+Feel free to modify any sections to better fit your 
